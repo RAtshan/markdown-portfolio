@@ -1,3 +1,4 @@
-* Working out
-* Hiking
-* Spending time with my family
+**hobbies:**
+  * Working out
+  * Hiking
+  * Spending time with my family
