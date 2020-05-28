@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![NWM Big Data Conference](C:\Users\atsha\Downloads\20200526_152551.jpg)
